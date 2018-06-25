@@ -2057,6 +2057,9 @@ payload
 [tabs]
 ------
 [tab,title="Input: JSON"]
+.Input
+[source, xml, linenums]
+----
 ....
 { "customer":{
 
